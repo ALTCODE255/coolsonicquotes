@@ -23,7 +23,7 @@ def passTweet(tweet: str, log: list[str]) -> bool:
 
 
 def getTweet() -> str:
-    limit = int(os.getenv("STORAGE_THRESHOLD"))
+    limit = 11
     with open("recent.txt", "r", encoding="utf-8") as f:
         log = f.read().splitlines()
         if len(log) < limit:
