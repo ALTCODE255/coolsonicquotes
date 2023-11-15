@@ -15,11 +15,7 @@ client = tweepy.Client(
 
 
 def passTweet(tweet: str, log: list[str]) -> bool:
-    return (
-        True
-        if tweet and tweet.strip() and not tweet.startswith("#") and tweet not in log
-        else False
-    )
+    return tweet.strip() and not tweet.startswith("#") and tweet not in log
 
 
 def getTweet() -> str:
