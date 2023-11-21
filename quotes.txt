@@ -40,6 +40,17 @@ For all the people who live on that planet... give them a chance to be happy. Le
 
 # Sonic
 Alright!! Our next adventure awaits us, so there's no time to waste! Yeah! We're SONIC HEROES!
+You'll regret this, Doctor. Even if I'm not real, I'm still the ultimate lifeform, Shadow the Hedgehog!
+
+# Metal Sonic
+ALL LIVING THINGS, KNEEL BEFORE YOUR MASTER!
+
+# Omega
+Warning... immediate destruction if distracted.
+
+# Rouge
+Now you two make up so we can go fight Eggman together! Oh, yeah, baby, this makes us a TEAM!
+All this for what, nothing? I might as well go look for that Master Emerald since that irritating echidna is here.
 
 
 # -------------
@@ -61,13 +72,16 @@ Power isn't something you can give or take... It's something that you use to def
 # Tails
 Someday... If this world no longer needs weapons or wars... If we can make this world a truly peaceful place when we're older... If we can make a world where there's only laughter... Do you think we'll be able to play with Emerl again?
 
+# Amy
+You dorks are a bunch of losers!
+
 
 # -------------------------
 # Shadow the Hedgehog
 # -------------------------
 
 # The Chosen One by A2 (Semi-Hero ending song)
-I’ll try to save the world, ‘cause in the end I know… I’m the chosen one.
+I'll try to save the world, 'cause in the end I know… I'm the chosen one.
 
 # Shadow
 Where's that DAMN fourth Chaos Emerald?
@@ -90,6 +104,7 @@ Nothing starts until you take action. If you have time to worry, then run!
 I determine my own destiny.
 If the world chooses to become my enemy, I will fight like I always have!
 A super-dimensional being… heh, this may actually be a fair fight!
+I will release you from the chains of your past.
 
 # Rouge
 Even if you believe everyone in the world will be against you, know that I'll always remain by your side. Remember that.
@@ -130,20 +145,23 @@ It was never about chivalry for me... I just gotta do what I've gotta do, that's
 I already told you, I don't mind playing the bad guy every once in a while.
 Merlina... Every world has its end. I know that's kinda sad, but... That's why we gotta live life to the fullest in the time we have. At least, that's what I figure.
 
-# -------------
+# --------------
 # Sonic Forces
-# -------------
+# --------------
 
 # Sonic
 Green Hill's looking a lot more like Sand Hill right now.
 
 # Infinite
 I will teach you fear. Then pain. Then… well, at least the fear and pain will end.
+I... I'm shaking... me!? Me... afraid...!? Urgh. Pathetic!? Me... he's calling ME weak!? No! I am not weak! I'm... I'm not. I'm not weak! I... AM... NOT... WEAK! URRRAAAAAAAAAAAGH!!!
+Ah, and still more wonderful, a not-so tall, dark, and brooding guest has arrived. I've been waiting for you, Shadow.
+I've only become what I am because of you, yet you don't remember. But I suppose that's the way it goes.
 
 
-# ----------------
+# -----------------
 # Sonic Frontiers
-# ----------------
+# -----------------
 
 # Sonic
 "Careful"? Where's the fun in that?
@@ -180,3 +198,12 @@ I was built to live in your shadow. It's in my blood, my bones, my brain. There'
 You give yourself value and purpose! No one else! You gotta live for you! That's what it really mean ws to be free!
 ## Mecha Sonic
 The value of one's existence isn't determined by successes and failures. Both are fleeting and impermanent. What truly matters is the courage to keep moving forward...
+
+
+# ----------------------
+# Sonic Underground
+# ----------------------
+
+# Dr. Robotnik
+Now, for starters; I'm going to close my eyes and count to 10. It'll make this finale very interesting, not for you, but, for me.
+
