@@ -38,5 +38,5 @@ def getTweet() -> str:
 
 
 if __name__ == "__main__":
-    tweet = client.create_tweet(text=getQuote())
-    print(tweet.data["id"] + "\n")
+    tweet = client.create_tweet(text=getTweet())
+    print(tweet.data["id"])
